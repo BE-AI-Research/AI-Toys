@@ -1,4 +1,4 @@
-# BE-AI-Research - System 2 Trial Test: Qwen2.5 30b 1-shot script.
+# BE-AI-Research - System 2 Trial Test: Qwen2.5 Code 30b-A3B 1-shot script.
 # August 31st, 2025 (AMD Ryzen 5600, Dual RTX 3050 16GB GPUs, 256GB NVME, Xubuntu OS)
 
 import pygame
